@@ -8,6 +8,8 @@ Currently I'm working in [Eidos](https://eidos.ai), AI enthusiasts with lots of 
 
 :seedling: Starting to work on my own ML portfolio and getting experience in data engineering with Snowflake, Prefect, DBT, AWS and Kafka.
 
+:soccer: I love sports especially football (soccer).
+
 📫 If you want to reach me feel free to it, my email is emimer91@gmail.com.
 
 
